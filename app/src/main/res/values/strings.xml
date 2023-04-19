@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">UTS Praktikum Pember</string>
+    <string-array name="mahasiswa_nama">
+        <item>Nama : Nadhif</item>
+        <item>Nama : Yohan</item>
+        <item>Nama : Alex</item>
+        <item>Nama : Naufal</item>
+        <item>Nama : Bima</item>
+        <item>Nama : Lely</item>
+        <item>Nama : Putri</item>
+        <item>Nama : Novia</item>
+        <item>Nama : Tamam</item>
+        <item>Nama : Anisa</item>
+        <item>Nama : Hesti</item>
+        <item>Nama : Nella</item>
+        <item>Nama : Zainal</item>
+        <item>Nama : Dirra</item>
+        <item>Nama : Faren</item>
+        <item>Nama : Rendy</item>
+        <item>Nama : Selma</item>
+        <item>Nama : Raihan</item>
+        <item>Nama : Reysa</item>
+        <item>Nama : Wulan</item>
+    </string-array>
+    <string-array name="mahasiswa_nim">
+        <item>NIM : 8041045</item>
+        <item>NIM : 9041054</item>
+        <item>NIM : 2041063</item>
+        <item>NIM : 1041012</item>
+        <item>NIM : 2041081</item>
+        <item>NIM : 8041045</item>
+        <item>NIM : 9041054</item>
+        <item>NIM : 2041063</item>
+        <item>NIM : 1041012</item>
+        <item>NIM : 2041081</item>
+        <item>NIM : 8041046</item>
+        <item>NIM : 9041051</item>
+        <item>NIM : 2041064</item>
+        <item>NIM : 1041032</item>
+        <item>NIM : 2041041</item>
+        <item>NIM : 8041075</item>
+        <item>NIM : 9041084</item>
+        <item>NIM : 2041093</item>
+        <item>NIM : 1041012</item>
+        <item>NIM : 2041021</item>
+    </string-array>
+    <string-array name="mahasiswa_umur">
+        <item>Usia : 19 Tahun</item>
+        <item>Usia : 20 Tahun</item>
+        <item>Usia : 22 Tahun</item>
+        <item>Usia : 18 Tahun</item>
+        <item>Usia : 20 Tahun</item>
+        <item>Usia : 17 Tahun</item>
+        <item>Usia : 21 Tahun</item>
+        <item>Usia : 20 Tahun</item>
+        <item>Usia : 12 Tahun</item>
+        <item>Usia : 20 Tahun</item>
+        <item>Usia : 16 Tahun</item>
+        <item>Usia : 24 Tahun</item>
+        <item>Usia : 25 Tahun</item>
+        <item>Usia : 15 Tahun</item>
+        <item>Usia : 26 Tahun</item>
+        <item>Usia : 22 Tahun</item>
+        <item>Usia : 24 Tahun</item>
+        <item>Usia : 23 Tahun</item>
+        <item>Usia : 17 Tahun</item>
+        <item>Usia : 21 Tahun</item>
+    </string-array>
+</resources>
